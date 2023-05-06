@@ -12,6 +12,10 @@ cd count-app
 open index.html
 ```
 
+<h2>🌐 Website</h2>
+
+You can also try out the Count App by visiting the following website: https://countweb.vercel.app/
+
 <h2>🚀 Usage</h2>
 
 Once the app is loaded, you can start incrementing, decrementing, and resetting the counter by clicking on the respective buttons. The current count will be displayed on the screen.
