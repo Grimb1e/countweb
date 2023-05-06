@@ -3,14 +3,14 @@ let isButtonDisabled = false;
 
 document.querySelector(".btn-increment").addEventListener("click", () => {
   if (isButtonDisabled) {
-    return; 
+    return;
   }
 
   isButtonDisabled = true;
-  setTimeout(() => {  
+  setTimeout(() => {
     isButtonDisabled = false;
   }, 900);
-  
+
   score++;
   document.querySelector("#score").textContent = score;
 });
