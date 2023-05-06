@@ -1,41 +1,34 @@
-**CountWeb**
+<h1>Count App</h1>
 
-CountWeb is a simple web application that allows users to count the number of words, characters, and lines in a given text. This application is built using JavaScript and deployed on GitHub Pages.
-Features
+This is a simple web application that allows you to increment, decrement, and reset a counter. It was built using HTML, CSS, and JavaScript.
 
-    Counts the number of words, characters, and lines in a given text
-    Supports both plain text and markdown
-    Has a simple and intuitive user interface
+<h2>🛠️ Installation</h2>
 
-**Installation**
+To use this app, simply download or clone the repository and open the index.html file in your web browser.
 
-To run the application locally, follow these steps:
+```bash
+git clone https://github.com/Grimb1e/count-app.git
+cd count-app
+open index.html
+```
 
-    Clone the repository using git clone  https://github.com/Grimb1e/countweb.git
-    Open index.html in your web browser.
+<h2>🚀 Usage</h2>
 
-**Deployment**
+Once the app is loaded, you can start incrementing, decrementing, and resetting the counter by clicking on the respective buttons. The current count will be displayed on the screen.
 
-CountWeb is deployed on GitHub Pages. To deploy the application on GitHub Pages, follow these steps:
+Count App Screenshot
 
-    Create a new repository on GitHub.
-    Clone the repository to your local machine using git clone https://github.com/Grimb1e/countweb.git.
-    Copy the index.html and js folder to the root of your repository.
-    Commit and push the changes to your GitHub repository.
-    Enable GitHub Pages for your repository in the settings tab.
+<h2>💻 Languages</h2>
 
-**Demo**
+This app was built using the following languages:
 
-To see a live demo of the application, visit https://coount.netlify.app/. Contributing
+    HTML
+    CSS
+    JavaScript
 
-Contributions to CountWeb are welcome! If you would like to contribute, please follow these steps:
+<h2>🤝 Contributing</h2>
 
-    Fork the repository.
-    Create a new branch.
-    Make your changes.
-    Test your changes.
-    Submit a pull request.
+If you want to contribute to this project, feel free to submit a pull request. Please make sure to follow the code of conduct and the contribution guidelines before submitting any changes.
+📝 License
 
-**License**
-
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License.
